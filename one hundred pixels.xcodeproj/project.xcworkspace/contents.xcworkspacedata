@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:one hundred pixels.xcodeproj">
+      location = "group:/Users/ash/projects/one hundred pixels/one hundred pixels/SettingsView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ash/projects/one hundred pixels/one hundred pixels/MainView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:../README.md">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

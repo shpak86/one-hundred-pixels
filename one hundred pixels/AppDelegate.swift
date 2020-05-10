@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  one hundred pixels
 //
-//  Created by Антон Шпаковский on 10.05.2020.
+//  Created by Anton Shpakovsky on 10.05.2020.
 //  Copyright © 2020 Anton Shpakovsky. All rights reserved.
 //
 
